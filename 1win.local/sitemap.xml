@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+>
+  <url>
+    <loc>https://1win-betting.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://1win-betting.com/ "/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://1win-betting.com/ru/ "/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://1win-betting.com/pl/ "/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://1win-betting.com/tr/ "/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://1win-betting.com/az/ "/>
+    <lastmod>2020-12-18</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://1win-betting.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://1win-betting.com/ru/ "/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://1win-betting.com/ "/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://1win-betting.com/pl/ "/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://1win-betting.com/tr/ "/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://1win-betting.com/az/ "/>
+    <lastmod>2020-12-18</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://1win-betting.com/pl/</loc>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://1win-betting.com/pl/ "/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://1win-betting.com/ "/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://1win-betting.com/ru/ "/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://1win-betting.com/tr/ "/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://1win-betting.com/az/ "/>
+    <lastmod>2020-12-18</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://1win-betting.com/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://1win-betting.com/tr/ "/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://1win-betting.com/ "/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://1win-betting.com/ru/ "/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://1win-betting.com/pl/ "/>
+    <xhtml:link rel="alternate" hreflang="az" href="https://1win-betting.com/az/ "/>
+    <lastmod>2020-12-18</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://1win-betting.com/az/</loc>
+    <xhtml:link rel="alternate" hreflang="az" href="https://1win-betting.com/az/ "/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://1win-betting.com/ "/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://1win-betting.com/ru/ "/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://1win-betting.com/pl/ "/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://1win-betting.com/tr/ "/>
+    <lastmod>2020-12-18</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://1win-betting.com/ru/cookie/</loc>
+    <lastmod>2020-12-18</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://1win-betting.com/ru/otkaz-ot-otvetstvennosti/</loc>
+    <lastmod>2020-12-18</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://1win-betting.com/ru/polzovatelskoe-soglashenie/</loc>
+    <lastmod>2020-12-18</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://1win-betting.com/ru/mobilnaya-versya/</loc>
+    <lastmod>2020-12-18</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://1win-betting.com/ru/bonusy/</loc>
+    <lastmod>2020-12-18</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://1win-betting.com/ru/registratsiya/</loc>
+    <lastmod>2020-12-18</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://1win-betting.com/ru/zerkalo/</loc>
+    <lastmod>2020-12-18</lastmod>
+    <priority>0.6</priority>
+  </url>
+</urlset>
